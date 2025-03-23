@@ -154,6 +154,13 @@ dunst
 fastfetch
 hyfetch
 
+# xorg stuff
+xorg-xinit
+xorg-xkill
+xorg-xrandr
+mesa
+
+
 # add a sxhkd config and add things like volume, brightness, playerctl, sxhkd is way easyier to add shortcuts for the average user
 #sxhkd
 
