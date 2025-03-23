@@ -126,3 +126,72 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# creds to liv for starting this >:3
+
+# installer lmao
+gparted
+calamares
+calamares-config
+
+# actual xmonad stuff
+xmonad
+xmonad-contrib
+xmobar
+trayer
+picom
+xterm # not really needed but its a fallback incase the config fails
+dmenu
+alacritty
+pipewire
+pipewire-pulse
+wireplumber
+pipewire-jack
+xdg-desktop-portal
+xdg-desktop-portal-xapp
+playerctl
+dunst
+fastfetch
+hyfetch
+
+# add a sxhkd config and add things like volume, brightness, playerctl, sxhkd is way easyier to add shortcuts for the average user
+#sxhkd
+
+# to do. change to polybar for easy to use panel. add conky, make rofi configs or dmenu configs
+# conky
+# polybar
+# rofi
+
+# user applications
+lxappearance-gtk3
+pcmanfm-gtk3
+nitrogen
+arandr
+lxsession-gtk3
+xarchiver
+gpicview
+mpv
+firefox
+thunderbird
+flameshot
+hplip
+gufw
+leafpad
+htop
+tmux
+nvtop
+flatpak
+pamac-aur-git
+
+# background stuff
+ufw
+cups
+ly
+
+
+
+
+
+
+
+

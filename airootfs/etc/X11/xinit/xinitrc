@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# custom xinitrc script that checks if the xmonad config is in the users home directory
+
+if [ -d "$HOME/.xmonad" ]; then
+  exec xmonad
+else
+  cp -r /usr/share/configs/xmonad $HOME/.xmonad
+  exec xmonad
+fi
+
